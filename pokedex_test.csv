@@ -1,0 +1,4 @@
+id_no,name,height,base_xp,hp,attack,defence,special-attack,special-defence,speed,front_image
+1,bulbasaur,7,64,45,49,49,65,65,45,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
+2,ivysaur,10,142,60,62,63,80,80,60,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
+3,venusaur,20,263,80,82,83,100,100,80,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
